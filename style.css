@@ -1,0 +1,56 @@
+.wrap-logo {
+  text-align: center;
+}
+#logo {
+  width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  padding: 10px 0;
+  width: 100%;
+  text-align: center;
+  color: #004d4c;
+  background-color: #fdfbf1;
+  border-top: 2px solid #ffd877;
+}
+.pippo {
+  text-align: center;
+  border-bottom: 0px;
+}
+
+span {
+  font-weight: bold;
+}
+
+/* .testo {
+  padding-bottom: 20px;
+  text-align: center;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto; */
+.container {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.focaccia {
+  border-radius: 10px;
+  height: auto;
+  width: 100%;
+}
+.align-left {
+  border-left: 1px solid #ffd877;
+  padding-left: 10px;
+}
+.allinea-sinistra {
+  text-align: start;
+}
+h2 {
+  border-bottom: 1px solid #004d4c;
+  padding-bottom: 10px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
